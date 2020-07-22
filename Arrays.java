@@ -3,8 +3,6 @@ public class Arrays
 {
     public static void main(String args[])
     {
-        int n = 50;
-        System.out.println("&n");
+        ArrayList<String> arr = new ArrayList<String>();
     }
-}
-        
+}    
