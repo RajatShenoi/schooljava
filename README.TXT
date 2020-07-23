@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: School Java Projects
-PURPOSE OF PROJECT: All the assignments in java
-VERSION or DATE: 20-07-2020
-HOW TO START THIS PROJECT: Nothing needed
-AUTHORS: Rajat Shenoi
-USER INSTRUCTIONS: None
+Hello,
+This is an upload of the answers for all the programs in the book APC understanding
+computer applications with BlueJ "Latest Edition" 
+(Currenty 2 chapters available, others are being updated!)
+AUTHOR: RAJAT SHENOI
