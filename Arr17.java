@@ -24,16 +24,16 @@ public class Arr17 {
             avg[i] = (m1[i] + m2[i] + m3[i]) / 3;
         }
         for (int i = 0; i < N; i++) {
-            if (avg[i] > 80 && avg[i] <= 100) {
-                System.out.println(n[i] + "'s Grade is: A");
-            } else if (avg[i] > 60 && avg[i] < 80) {
-                System.out.println(n[i] + "'s Grade is: B");
-            } else if (avg[i] > 40 && avg[i] < 60) {
-                System.out.println(n[i] + "'s Grade is: C");
-            } else if (avg[i] < 40) {
-                System.out.println(n[i] + "'s Grade is: D");
+            if (avg[i] > 88 && avg[i] <= 100) {
+                System.out.println(n[i] + "'s Grade is: Excellent");
+            } else if (avg[i] > 75 && avg[i] < 85) {
+                System.out.println(n[i] + "'s Grade is: Distinction");
+            } else if (avg[i] > 60 && avg[i] < 75) {
+                System.out.println(n[i] + "'s Grade is: First Class");
+            } else if (avg[i] > 40 && avg[i] < 59) {
+                System.out.println(n[i] + "'s Grade is: Pass");
             } else {
-                System.out.println(n[i] + "'s Grade is: INVALID!");
+                System.out.println(n[i] + "'s Grade is: Fail!");
             }
         }
     }
